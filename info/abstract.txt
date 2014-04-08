@@ -1,0 +1,9 @@
+Title: Cosmology from the Cosmic Dawn and
+Epoch of Reionization with SKA Phase-1
+
+Authors:  Pritchard, Chang, Furlanetto, Choudhury, Zaroubi, Santos, Chen, Weller, Abdalla, Mesinger 
+on behalf of the Cosmology-SWG
+
+SKA Phase 1 will build upon early detections of the EoR by precursor instruments, such as MWA, PAPER, LOFAR, and HERA, to make the first high signal-to-noise measurements of fluctuations in the 21 cm brightness temperature from both reionization and the cosmic dawn. This will allow both imaging and statistical maps of the 21cm signal at redshifts z=6-30 and constrain the underlying cosmology and evolution of the density field. This era includes nearly 60% of the (in principle) observable volume of the Universe and many more linear modes than the CMB, presenting an opportunity for SKA to usher in a new level of precision cosmology. This optimistic picture is complicated by the need to understand and remove the effect of astrophysics, so that systematics rather than statistics will limit constraints.
+
+This chapter will describe the cosmological, as opposed to astrophysical, information available to SKA Phase 1. Key areas for discussion include: cosmological parameters constraints using 21cm fluctuations as a tracer of the density field; lensing of the 21cm signal, constraints on heating via exotic physics such as decaying or annihilating dark matter; impact of fundamental physics such as non-Gaussianity or warm dark matter on the source population; and constraints on the bulk flows arising from the decoupling of baryons and photons at z=1000. The chapter will explore the path to separating cosmology from `gastrophysics', for example via velocity space distortions and separation in redshift. We will discuss new opportunities for extracting cosmology made possible by the sensitivity of SKA-1 and explore the advances achievable with SKA-2.
